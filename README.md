@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo ao meu perfil do Github.
 
-- 🌱 Estudando sempre ...
+- 🌱 Estudando...
 
 <div align="center">
   <a href="https://github.com/MauricioGoulartt">

@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo ao meu perfil do Github.
 
-estudando Bootstrap // mySQL // Javascript
+estudando Node.js // Javascript
 
 
 <div align="center">

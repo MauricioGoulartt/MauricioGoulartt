@@ -1,7 +1,5 @@
 ### Olá, seja bem vindo ao meu perfil do Github.
 
-estudando Node.js // Javascript
-
 
 <div align="center">
   <a href="https://github.com/MauricioGoulartt">

@@ -24,6 +24,8 @@
   &nbsp;
   <img height="25" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   &nbsp;
+  <img height="25" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
+     	
   <div/>
 
   <br />

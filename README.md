@@ -10,7 +10,7 @@
   ##
   
   # Skills
-  <div display="flex">
+  <div display="flex" style="background-color="red" ">
   
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   &nbsp;
@@ -19,11 +19,11 @@
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
   &nbsp;
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-
+  &nbsp;
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-    
+  &nbsp;
   <img height="25" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-    
+  &nbsp;
   <div/>
 
   <br />

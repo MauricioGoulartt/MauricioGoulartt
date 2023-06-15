@@ -1,8 +1,13 @@
+#
+
 <img align="right" alt="Visitas" src="https://komarev.com/ghpvc/?username=MauricioGoulartt&label=Profile%20views&color=blueviolet&style=flat">
 <img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/MauricioGoulartt?style=flat&color=blueviolet&logo=github" />
 <img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.strrl.dev/commits/monthly/MauricioGoulartt?style=flat&color=blueviolet" />
 <img title="Gihub Member" alt="Gihub Member" align="right" src="https://badges.strrl.dev/contributions/all/MauricioGoulartt?color=blueviolet" />
 <img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/MauricioGoulartt?style=flat&color=blueviolet" />
+
+<br />
+<br />
 
 ### Olá, seja bem vindo ao meu perfil do Github.
 

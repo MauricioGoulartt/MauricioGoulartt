@@ -41,6 +41,10 @@
   <img height="25" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
   &nbsp;
   <img height="25" src="https://github.com/taigorene/taigorene/blob/main/img/linux-tux.svg">
+  &nbsp;
+  <img height="25" src="https://github.com/taigorene/taigorene/blob/main/img/docker.svg">
+  &nbsp;
+  <img height="25" src="https://github.com/taigorene/taigorene/blob/main/img/eslint.svg">
      	
   <div/>
 

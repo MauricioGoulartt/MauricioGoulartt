@@ -42,9 +42,7 @@
   &nbsp;
   <img height="25" src="https://github.com/taigorene/taigorene/blob/main/img/linux-tux.svg">
   &nbsp;
-  <img height="25" src="https://github.com/taigorene/taigorene/blob/main/img/docker.svg">
-  &nbsp;
-  <img height="25" src="https://github.com/taigorene/taigorene/blob/main/img/eslint.svg">
+  <img height="25" src="https://github.com/taigorene/taigorene/blob/main/img/docker-original.svg">
      	
   <div/>
 

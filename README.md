@@ -34,3 +34,12 @@
 
 ## Skills
   [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,git,github,html,css,bootstrap,tailwind,javascript,typescript,nodejs,expressjs,nestjs,react,nextjs,styledcomponents,jest,webpack,babel,cs,docker,linux,md,mongo,mysql,aws&theme=dark)](#)
+
+<div align="center">
+  <a href="#">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=GabrielGuedess&show_icons=true&theme=radical&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielGuedess&theme=radical&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielGuedess&theme=rogue&hide_border=true&area=true&bg_color=141321&area_color=FE428E&line=FE428E&title_color=FE428E" />
+  </a>
+</div>
+  

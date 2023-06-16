@@ -28,10 +28,9 @@
 
 <div>
   ![Snake animation](https://github.com/MauricioGoulartt/MauricioGoulartt/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-<a href = "mailto:mauriciogoulart.1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mauriciogoulart.1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mauriciogoulart/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ## Skills
   [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,git,github,html,css,bootstrap,tailwind,javascript,typescript,nodejs,expressjs,nestjs,react,nextjs,styledcomponents,jest,webpack,babel,cs,docker,linux,md,mongo,mysql,aws&theme=dark)](#)

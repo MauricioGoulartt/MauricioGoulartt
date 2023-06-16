@@ -25,6 +25,8 @@
 </div>
   
   ##
+
+  [![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,illustrator,xd,figma,vscode,eclipse,androidstudio,git,github,html,css,sass,bootstrap,tailwind,javascript,typescript,jquery,nodejs,expressjs,nestjs,react,nextjs,vite,styledcomponents,jest,webpack,babel,apollo,graphql,java,kotlin,cs,dotnet,docker,linux,md,prisma,planetscale,supabase,mongo,sqlite,mysql,postgres,redis,githubactions,vercel,heroku,netlify&theme=dark)](#)
   
   # Skills
   <div display="flex" style="background-color="red" ">

@@ -20,7 +20,7 @@
   </a>
 
   <a href="https://github.com/MauricioGoulartt">
-    <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MauricioGoulartt&theme=radical" />
+    <img height="121em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MauricioGoulartt&theme=merko" />
   </a>
 </div>
   

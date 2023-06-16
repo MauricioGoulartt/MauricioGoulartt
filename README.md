@@ -10,11 +10,17 @@
 
 ### Olá, seja bem vindo ao meu perfil do Github.
 
+- 🖥️ Cursando Análise e desenvolvimento de sistemas na instituição de ensino Centro Universitário Eniac.
+
 <br />
 
 <div align="center">
   <a href="https://github.com/MauricioGoulartt">
   <img height="121em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioGoulartt&layout=compact&langs_count=7&theme=merko"/>
+
+    <a href="#">
+    <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MauricioGoulartt&theme=radical" />
+  </a>
 </div>
   
   ##

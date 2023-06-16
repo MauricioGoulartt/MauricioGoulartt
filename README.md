@@ -39,7 +39,7 @@
   <a href="#">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MauricioGoulartt&show_icons=true&theme=dark&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MauricioGoulartt&theme=dark&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MauricioGoulartt&theme=dark&hide_border=true&area=true&bg_color=fff&area_color=f6ab42&line=92eb06&title_color=92eb06" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MauricioGoulartt&theme=dark&hide_border=true&area=true&area_color=f6ab42&line=92eb06&title_color=92eb06" />
   </a>
 </div>
   

@@ -23,35 +23,6 @@
     <img height="141em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MauricioGoulartt&theme=merko" />
   </a>
 </div>
-  
-  ##
-
-  # Skills
-  <div display="flex" style="background-color="red" ">
-  
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="25" alt="Nest Logo" /></a>
-  &nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-  &nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  &nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  &nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-  &nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-  &nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  &nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
-  &nbsp;
-  <img height="25" src="https://github.com/taigorene/taigorene/blob/main/img/linux-tux.svg">
-  &nbsp;
-  <img height="25" src="https://github.com/taigorene/taigorene/blob/main/img/docker-original.svg">
-     	
-  <div/>
-
-  <br />
 
 <div>
   <a href = "mailto:mauriciogoulart.1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -61,4 +32,5 @@
  
 </div>
 
+## Skills
   [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,git,github,html,css,bootstrap,tailwind,javascript,typescript,nodejs,expressjs,nestjs,react,nextjs,styledcomponents,jest,webpack,babel,cs,docker,linux,md,mongo,mysql,aws&theme=dark)](#)

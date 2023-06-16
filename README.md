@@ -16,11 +16,11 @@
 
 <div align="center">
   <a href="https://github.com/MauricioGoulartt">
-  <img height="121em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioGoulartt&layout=compact&langs_count=7&theme=merko"/>
+  <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioGoulartt&layout=compact&langs_count=7&theme=merko"/>
   </a>
 
   <a href="https://github.com/MauricioGoulartt">
-    <img height="121em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MauricioGoulartt&theme=merko" />
+    <img height="141em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MauricioGoulartt&theme=merko" />
   </a>
 </div>
   

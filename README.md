@@ -32,7 +32,7 @@
 </div>
 
 ## Skills
-  [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,javascript,typescript,azure,docker,linux,aws,tailwind,nodejs,expressjs,nestjs,react,nextjs,styledcomponents,jest,webpack,babel,md,mongo,mysql,androidstudio,html,css&theme=dark)](#)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,git,nextjs,typescript,javascript,azure,docker,linux,tailwind,nodejs,expressjs&theme=dark)](#)
 
 <div align="center">
   <a href="#">

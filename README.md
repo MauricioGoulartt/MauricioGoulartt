@@ -8,9 +8,9 @@
 
 <br />
 
-### Olá, seja bem vindo ao meu perfil do Github.
+### Welcome to my Github.
 
-- 🖥️ Cursando Análise e desenvolvimento de sistemas na instituição de ensino Centro Universitário Eniac.
+- 🖥️ Software developer and systems analyst.
 
 <br />
 

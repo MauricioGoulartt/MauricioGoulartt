@@ -10,9 +10,11 @@
 
 ### Welcome to my Github.
 
-- 🖥️ Software developer and systems analyst.
+- 🖥️ Software developer.
+- <h2>Sobre Mim</h2>
+<p>Sou desenvolvedor de sistemas com foco em desenvolvimento de APIs e integração de sistemas. Tenho experiência em diversas tecnologias e metodologias de software, incluindo arquitetura de software, segurança e automação de processos. Trabalho com tecnologias backend e frontend, além de configuração de servidores e contêineres. Estou sempre buscando novas oportunidades para aplicar minhas habilidades e aprender novas tecnologias.</p>
 
-<br />
+<br /><!--  -->
 
 <div align="center">
   <a href="https://github.com/MauricioGoulartt">

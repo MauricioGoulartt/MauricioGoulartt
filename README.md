@@ -41,7 +41,7 @@
 
 ## 🟢 **Tecnologias**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,javascript,react,tailwind,azure,aws,docker,linux,graphql,postgres,mysql,mongo,oracle,knex,expressjs,cs,dotnet,mvc&theme=dark)](#)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,typescript,javascript,react,tailwind,azure,aws,docker,linux,graphql,postgres,mysql,mongo,oracle,knex,expressjs,cs,dotnet,mvc,rabbitmq,postman&theme=dark)](#)
 
 <br />
 

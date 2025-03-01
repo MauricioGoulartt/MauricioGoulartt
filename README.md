@@ -10,11 +10,6 @@
 
 ### Desenvolvimento, Engenharia e Arquitetura de Software
 
-<h2>Sobre Mim</h2>
-<p>Sou um profissional especializado no desenvolvimento, engenharia e arquitetura de software. Tenho experiência na criação de APIs, integração de sistemas e automação de processos. Além disso, trabalho com tecnologias backend e frontend, incluindo a configuração de servidores e contêineres.</p>
-
-<p>Minha abordagem inclui boas práticas de segurança, otimização de desempenho e arquitetura escalável. Estou sempre buscando novos desafios e aprimorando minhas habilidades em tecnologias modernas.</p>
-
 <br />
 
 <div align="center">

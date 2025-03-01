@@ -1,6 +1,4 @@
-<div align="center" width="100%" height="auto">
-  <img src="https://raw.githubusercontent.com/MauricioGoulartt/MauricioGoulartt/main/assets/svg/header.svg" width="100%" height="auto" />
-</div>
+<img src="https://raw.githubusercontent.com/MauricioGoulartt/MauricioGoulartt/main/assets/svg/header.svg">
 
 ##
 

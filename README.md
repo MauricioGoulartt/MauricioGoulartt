@@ -1,8 +1,5 @@
-<div align="center">
-
+<div width="100%" height="100%" >
   <img src="https://raw.githubusercontent.com/MauricioGoulartt/MauricioGoulartt/main/assets/svg/header.svg" />
-
-</div>
 
 ##
 
@@ -67,3 +64,5 @@
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?color=%22A3FF33&size=24&center=true&vCenter=true&lines=Bem-vindo+ao+meu+GitHub!;Olá!+Sou+Maurício+Goulart" />
   </a>
+
+</div>

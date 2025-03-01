@@ -1,8 +1,6 @@
 <div align="center">
 
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%22A3FF33&size=24&center=true&vCenter=true&lines=Bem-vindo+ao+meu+GitHub!;Olá!+Sou+Maurício+Goulart" />
-  </a>
+  <img src="https://raw.githubusercontent.com/MauricioGoulartt/MauricioGoulartt/main/assets/svg/header.svg" />
 
 </div>
 
@@ -66,6 +64,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MauricioGoulartt/MauricioGoulartt/main/assets/svg/footer.svg" />
-</p>
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%22A3FF33&size=24&center=true&vCenter=true&lines=Bem-vindo+ao+meu+GitHub!;Olá!+Sou+Maurício+Goulart" />
+  </a>

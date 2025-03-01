@@ -1,0 +1,88 @@
+<svg width="100%" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes matrixFall {
+      0%   { transform: translateY(-50px); opacity: 0; }
+      20%  { opacity: 1; }
+      100% { transform: translateY(100px); opacity: 0; }
+    }
+    .matrix-letter {
+      fill: #00FF00;
+      font-family: 'Courier New', monospace;
+      font-size: 20px;
+      animation: matrixFall 2s infinite ease-in-out;
+    }
+
+    .char0  { animation-delay: 0s;   }
+    .char1  { animation-delay: 0.1s; }
+    .char2  { animation-delay: 0.2s; }
+    .char3  { animation-delay: 0.3s; }
+    .char4  { animation-delay: 0.4s; }
+    .char5  { animation-delay: 0.5s; }
+    .char6  { animation-delay: 0.6s; }
+    .char7  { animation-delay: 0.7s; }
+    .char8  { animation-delay: 0.8s; } 
+    
+
+     @keyframes matrixRain {
+      0% {
+        transform: translateY(-100%);
+      }
+      100% {
+        transform: translateY(400px);
+      }
+    }
+
+    .rain {
+      fill: #00ff00;
+      opacity: 0.2;
+      font-size: 16px;
+      font-family: 'Courier New', monospace;
+      animation: matrixRain 3s linear infinite;
+    }
+    .rain1 {
+      animation-delay: 0s;
+      animation-duration: 3s;
+    }
+    .rain2 {
+      animation-delay: 1s;
+      animation-duration: 4s;
+    }
+    .rain3 {
+      animation-delay: 2s;
+      animation-duration: 5s;
+    }
+  </style>
+
+  <rect width="100%" height="200" fill="black" />
+
+  <text x="50%" y="50%" text-anchor="middle">
+    <tspan class="matrix-letter char0">B</tspan>
+    <tspan class="matrix-letter char1">e</tspan>
+    <tspan class="matrix-letter char2">m</tspan>
+    <tspan class="matrix-letter char3">-</tspan>
+    <tspan class="matrix-letter char4">v</tspan>
+    <tspan class="matrix-letter char5">i</tspan>
+    <tspan class="matrix-letter char6">n</tspan>
+    <tspan class="matrix-letter char7">d</tspan>
+    <tspan class="matrix-letter char8">o</tspan>
+    <tspan class="matrix-letter char9">!</tspan>
+  </text>
+
+    <!-- Várias linhas de símbolos “chovendo” ao fundo -->
+  <text x="10" y="0" class="rain" style="animation-duration: 3s; animation-delay: 0s;">0</text>
+  <text x="50" y="0" class="rain" style="animation-duration: 3.5s; animation-delay: 0.5s;">1</text>
+  <text x="100" y="0" class="rain" style="animation-duration: 4s; animation-delay: 1s;">∑</text>
+  <text x="150" y="0" class="rain" style="animation-duration: 4.5s; animation-delay: 1.5s;">∏</text>
+  <text x="200" y="0" class="rain" style="animation-duration: 5s; animation-delay: 2s;">√</text>
+  <text x="250" y="0" class="rain" style="animation-duration: 3s; animation-delay: 0.2s;">∞</text>
+  <text x="300" y="0" class="rain" style="animation-duration: 3.8s; animation-delay: 0.7s;">π</text>
+  <text x="350" y="0" class="rain" style="animation-duration: 4.3s; animation-delay: 1.3s;">θ</text>
+  <text x="400" y="0" class="rain" style="animation-duration: 5.2s; animation-delay: 1.8s;">λ</text>
+  <text x="450" y="0" class="rain" style="animation-duration: 3.6s; animation-delay: 0.4s;">ϕ</text>
+  <text x="500" y="0" class="rain" style="animation-duration: 4.1s; animation-delay: 1s;">Δ</text>
+  <text x="550" y="0" class="rain" style="animation-duration: 4.7s; animation-delay: 1.5s;">∫</text>
+  <text x="600" y="0" class="rain" style="animation-duration: 5.3s; animation-delay: 2.1s;">≈</text>
+  <text x="650" y="0" class="rain" style="animation-duration: 3.9s; animation-delay: 0.6s;">±</text>
+  <text x="700" y="0" class="rain" style="animation-duration: 4.5s; animation-delay: 1.2s;">∂</text>
+  <text x="750" y="0" class="rain" style="animation-duration: 5s; animation-delay: 1.9s;">∝</text>
+</svg>

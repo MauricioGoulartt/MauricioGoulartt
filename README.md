@@ -1,5 +1,6 @@
 <div width="100%" height="100%" >
   <img src="https://raw.githubusercontent.com/MauricioGoulartt/MauricioGoulartt/main/assets/svg/header.svg" />
+</div>
 
 ##
 
@@ -57,7 +58,7 @@
 <div>
   <a href="mailto:mauriciogoulart.1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mauriciogoulart/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" target="_blank"></a> 
-</div>
+
 
 ---
 

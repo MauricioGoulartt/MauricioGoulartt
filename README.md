@@ -31,24 +31,25 @@ Atualmente, atuo como **Desenvolvedor Backend** e tenho um forte foco em **APIs,
 ✔ Desenvolvimento Backend (Node.js, Nestjs, Strapi, APIs RESTful e GraphQL)  
 ✔ Arquitetura e segurança de software  
 ✔ Integração de sistemas e automação de processos  
-✔ Otimização de performance e escalabilidade
-✔ MySql, Mongodb e etc
+✔ Otimização de performance e escalabilidade  
+✔ MySql, Mongodb e etc  
 
----
+<br />
+<br />
 
 ## 📚 **Educação e Certificações**
-🎓 **Análise e Desenvolvimento de Sistemas**
-<br />
-🖥️ **Cursando Pós em Arquitetura de Software na instituição de ensino FIAP.
-<br />
-📜 **Certificações relevantes** *(listadas no LinkedIn)*  
+🎓 **Análise e Desenvolvimento de Sistemas**  
+🖥️ **Cursando Pós em Arquitetura de Software na instituição de ensino FIAP.**  
+📜 **Certificações relevantes** *(listadas no LinkedIn)*   
 
----
+<br />
+<br />
 
 ## 🚀 **Tecnologias**
 [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,javascript,azure,docker,linux,git,tailwind,expressjs,postgres,mysql,redis&theme=dark)](#)
 
----
+<br />
+<br />
 
 ## 📊 **GitHub Stats**
 <div align="center">
@@ -59,7 +60,8 @@ Atualmente, atuo como **Desenvolvedor Backend** e tenho um forte foco em **APIs,
   </a>
 </div>
 
----
+<br />
+<br />
 
 ## 📩 **Contato**
 <div>
@@ -67,6 +69,8 @@ Atualmente, atuo como **Desenvolvedor Backend** e tenho um forte foco em **APIs,
   <a href="https://www.linkedin.com/in/mauriciogoulart/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+---
+---
 ---
 
 <h2 align="center">💜 Se curtiu, deixa uma ⭐!</h2>

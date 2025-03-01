@@ -66,8 +66,6 @@
 
 ---
 
-## 🟢 **Rodapé Animado (Matrix Style)**
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/MauricioGoulartt/MauricioGoulartt/main/assets/svg/footer.svg" />
 </p>

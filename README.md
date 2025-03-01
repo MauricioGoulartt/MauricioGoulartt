@@ -38,7 +38,9 @@ Atualmente, atuo como **Desenvolvedor Backend** e tenho um forte foco em **APIs,
 
 ## 📚 **Educação e Certificações**
 🎓 **Análise e Desenvolvimento de Sistemas**
+<br />
 🖥️ **Cursando Pós em Arquitetura de Software na instituição de ensino FIAP.
+<br />
 📜 **Certificações relevantes** *(listadas no LinkedIn)*  
 
 ---

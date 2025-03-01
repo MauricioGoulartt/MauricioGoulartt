@@ -2,11 +2,6 @@
   <img src="https://raw.githubusercontent.com/MauricioGoulartt/MauricioGoulartt/main/assets/svg/header.svg" width="100%" height="auto" />
 </div>
 
-<!-- Background animado -->
-<picture>
-  <img src="https://raw.githubusercontent.com/MauricioGoulartt/MauricioGoulartt/main/assets/svg/header.svg" width="100%" height="100%" style="position: absolute; top: 0; left: 0; z-index: -1; opacity: 0.2;" />
-</picture>
-
 ##
 
 <img align="right" alt="Visitas" src="https://komarev.com/ghpvc/?username=MauricioGoulartt&label=Profile%20views&color=green&style=flat">

@@ -73,7 +73,14 @@ Atualmente, atuo como **Desenvolvedor Backend** e tenho um forte foco em **APIs,
 ---
 ---
 
-<h2 align="center">💜 Se curtiu, deixa uma ⭐!</h2>
+<svg width="100%" height="100" viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100" fill="#141321"/>
+  <text x="50%" y="60%" font-size="24" fill="#FFFFFF" text-anchor="middle" font-family="Arial">
+    🚀 Desenvolvido por Mauricio Goulart 🚀
+  </text>
+</svg>
 
-<p align="center">Feito com ❤️ no Brasil 🇧🇷</p>
 
+<p align="center">
+  <img href="#" src="./assets/svg/footer.svg" />
+</p>

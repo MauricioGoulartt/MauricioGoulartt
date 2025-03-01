@@ -1,0 +1,21 @@
+<svg width="100%" height="100" viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes matrixRain {
+      0% { transform: translateY(-100px); opacity: 0; }
+      100% { transform: translateY(100px); opacity: 1; }
+    }
+
+    .matrix-text {
+      font-size: 20px;
+      fill: #00FF00;
+      font-family: 'Courier New', monospace;
+      animation: matrixRain 1.5s infinite alternate ease-in-out;
+    }
+  </style>
+
+  <rect width="100%" height="100" fill="black"/>
+
+  <text x="50%" y="50%" text-anchor="middle" class="matrix-text">
+    🟢 Bem-vindo à Matrix, Mauricio Goulart! 🟢
+  </text>
+</svg>

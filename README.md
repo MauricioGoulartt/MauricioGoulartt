@@ -1,7 +1,11 @@
-<div width="100%" height="100%" >
-  <img src="https://raw.githubusercontent.com/MauricioGoulartt/MauricioGoulartt/main/assets/svg/header.svg" width="100%" height="100%" style="position: fixed; top: 0; left: 0; z-index: -10;" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MauricioGoulartt/MauricioGoulartt/main/assets/svg/header.svg" width="100%" height="auto" />
 </div>
+
+<!-- Background animado -->
+<picture>
+  <img src="https://raw.githubusercontent.com/MauricioGoulartt/MauricioGoulartt/main/assets/svg/header.svg" width="100%" height="100%" style="position: absolute; top: 0; left: 0; z-index: -1; opacity: 0.2;" />
+</picture>
 
 ##
 
@@ -59,11 +63,10 @@
 <div>
   <a href="mailto:mauriciogoulart.1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mauriciogoulart/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" target="_blank"></a>
+</div>
 
 ---
 
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%22A3FF33&size=24&center=true&vCenter=true&lines=Bem-vindo+ao+meu+GitHub!;Olá!+Sou+Maurício+Goulart" />
-  </a>
-
-</div>
+<a href="#">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%22A3FF33&size=24&center=true&vCenter=true&lines=Bem-vindo+ao+meu+GitHub!;Olá!+Sou+Maurício+Goulart" />
+</a>

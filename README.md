@@ -1,30 +1,72 @@
-<img align="right" alt="Visitas" src="https://komarev.com/ghpvc/?username=MauricioGoulartt&label=Profile%20views&color=green&style=flat">
-<img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/MauricioGoulartt?style=flat&color=blueviolet&logo=github" />
-<img title="Github Monthly commits" alt="Github Monthly" align="left" src="https://badges.strrl.dev/commits/monthly/MauricioGoulartt?style=flat&color=green" />
-<img title="Github Contributions" alt="Github Contributions" align="right" src="https://badges.strrl.dev/contributions/all/MauricioGoulartt?color=green" />
-<img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/MauricioGoulartt?style=flat&color=green" />
+<a href="#">
+  <img src="./assets/images/github-header.png" width="100%" />
+</a>
 
 <br />
-
-# Bem-vindo ao meu GitHub!
-
-### Desenvolvimento, Engenharia e Arquitetura de Software
-
 <br />
 
 <div align="center">
-  <a href="https://github.com/MauricioGoulartt">
-  <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioGoulartt&layout=compact&langs_count=7&theme=merko"/>
+  <a href="#">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzcxM2ZjOGI1OGVmMmU0ZmIzYTg0MzY0MjUxNWJlYTg5ZGY2YTBlNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/X6igXqclj9f8Tf5XXG/giphy.gif" height="50">
   </a>
 
-  <a href="https://github.com/MauricioGoulartt">
-    <img height="141em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MauricioGoulartt&theme=merko" />
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%238a2be2&size=24&center=true&vCenter=true&lines=Bem-vindo+ao+meu+GitHub!;Olá!+Sou+Maurício+Goulart" />
+  </a>
+
+  <a href="#">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzcxM2ZjOGI1OGVmMmU0ZmIzYTg0MzY0MjUxNWJlYTg5ZGY2YTBlNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/X6igXqclj9f8Tf5XXG/giphy.gif" height="50">
   </a>
 </div>
 
+##
+
+<img align="right" alt="Visitas" src="https://komarev.com/ghpvc/?username=MauricioGoulartt&label=Profile%20views&color=blueviolet&style=flat">
+<img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/MauricioGoulartt?style=flat&color=blueviolet&logo=github" />
+<img title="Github Monthly commits" alt="Github Monthly" align="left" src="https://badges.strrl.dev/commits/monthly/MauricioGoulartt?style=flat&color=blueviolet" />
+<img title="Github Contributions" alt="Github Contributions" align="right" src="https://badges.strrl.dev/contributions/all/MauricioGoulartt?color=blueviolet" />
+<img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/MauricioGoulartt?style=flat&color=blueviolet" />
+
+<br />
 <br />
 
-## 📩 Contato
+## 🏆 **Sobre mim**
+Sou um profissional estudando e aplicando **desenvolvimento, engenharia e arquitetura de software**, com experiência em **integração de sistemas e automação de processos**.  
+Atualmente, atuo como **Desenvolvedor Backend** e tenho um forte foco em **APIs, segurança e escalabilidade de aplicações**.  
+
+💡 **Principais áreas de atuação:**  
+✔ Desenvolvimento Backend (Node.js, Nestjs, Strapi, APIs RESTful e GraphQL)  
+✔ Arquitetura e segurança de software  
+✔ Integração de sistemas e automação de processos  
+✔ Otimização de performance e escalabilidade
+✔ MySql, Mongodb e etc
+
+---
+
+## 📚 **Educação e Certificações**
+🎓 **Análise e Desenvolvimento de Sistemas**
+🖥️ **Cursando Pós em Arquitetura de Software na instituição de ensino FIAP.
+📜 **Certificações relevantes** *(listadas no LinkedIn)*  
+
+---
+
+## 🚀 **Tecnologias**
+[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,javascript,azure,docker,linux,git,tailwind,expressjs,postgres,mysql,redis&theme=dark)](#)
+
+---
+
+## 📊 **GitHub Stats**
+<div align="center">
+  <a href="#">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MauricioGoulartt&show_icons=true&theme=radical&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MauricioGoulartt&theme=radical&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MauricioGoulartt&theme=rogue&hide_border=true&area=true&bg_color=141321&area_color=FE428E&line=FE428E&title_color=FE428E" />
+  </a>
+</div>
+
+---
+
+## 📩 **Contato**
 <div>
   <a href="mailto:mauriciogoulart.1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mauriciogoulart/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -32,16 +74,7 @@
 
 ---
 
-## 🚀 Skills
+<h2 align="center">💜 Se curtiu, deixa uma ⭐!</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=git,nextjs,typescript,javascript,azure,docker,linux,tailwind,nodejs,expressjs,dotnet,jquery,selenium,ubuntu,cs&theme=dark)](#)
+<p align="center">Feito com ❤️ no Brasil 🇧🇷</p>
 
----
-
-<div align="center">
-  <a href="#">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MauricioGoulartt&show_icons=true&theme=merko&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MauricioGoulartt&theme=merko&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MauricioGoulartt&theme=merko&hide_border=true&area=true&bg_color=dark&area_color=f6ab42&line=92eb06&title_color=92eb06" />
-  </a>
-</div>

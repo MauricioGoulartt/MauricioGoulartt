@@ -39,6 +39,10 @@
 
 <br />
 
+## 📈 Análise de Desenvolvimento Semanal
+
+[![Mauricio Goulart WakaTime Activity](https://github.com/MauricioGoulartt/MauricioGoulartt/blob/main/images/stat.svg)](#)
+
 ## 📊 **WakaTime Stats**
 
 <!--START_SECTION:waka-->

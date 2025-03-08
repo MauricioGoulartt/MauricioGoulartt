@@ -2,8 +2,8 @@ name: Atualizar WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 * * * *' # Roda a cada hora
-  workflow_dispatch: # Permite rodar manualmente
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-wakatime:
@@ -15,7 +15,7 @@ jobs:
       - name: Atualizar WakaTime Stats no README
         uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Pega a API Key salva no GitHub Secrets
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           TIME_RANGE: all_time
           SHOW_TIME: true

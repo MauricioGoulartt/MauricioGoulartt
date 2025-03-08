@@ -85,3 +85,7 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
 <a href="#">
   <img src="https://readme-typing-svg.herokuapp.com?color=%22A3FF33&size=24&center=true&vCenter=true&lines=Bem-vindo+ao+meu+GitHub!;Olá!+Sou+Maurício+Goulart" />
 </a>
+
+<p align="center">
+  <img href="#" src="./assets/svg/footer.svg" />
+</p>

@@ -75,8 +75,7 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
         <img width="250" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/311fa62f-e34e-4d71-a7c5-ac4a6343e3c8.svg" alt="WakaTime Linguagens" />
       </td>
       <td align="center">
-        <h2>🟢 Tecnologias</h2>
-        <img width="250" src="https://skillicons.dev/icons?i=nodejs,nestjs,typescript,javascript,react,tailwind,azure,aws,docker,linux,graphql,postgres,mysql,mongo,expressjs,cs,dotnet,rabbitmq,postman&theme=dark" alt="Tech Stack" />
+        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,typescript,javascript,react,tailwind,azure,aws,docker,linux,graphql,postgres,mysql,mongo,expressjs,cs,dotnet,rabbitmq,postman&theme=dark" alt="Tech Stack" />
       </td>
     </tr>
   </table>

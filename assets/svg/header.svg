@@ -20,7 +20,8 @@
     .char5  { animation-delay: 0.5s; }
     .char6  { animation-delay: 0.6s; }
     .char7  { animation-delay: 0.7s; }
-    .char8  { animation-delay: 0.8s; } 
+    .char8  { animation-delay: 0.8s; }
+    .char9  { animation-delay: 0.9s; } 
     
 
      @keyframes matrixRain {

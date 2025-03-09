@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/MauricioGoulartt/MauricioGoulartt/refs/heads/main/assets/svg/header.svg">
 
 ##
 
@@ -74,7 +75,6 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
 <div>
   <img width="100%" src="https://skillicons.dev/icons?i=nodejs,nestjs,typescript,javascript,react,tailwind,azure,aws,docker,linux,graphql,postgres,mysql,mongo,expressjs,cs,dotnet,rabbitmq,postman&theme=dark" alt="Tech Stack" />
 </div>
-
 
 ## 📩 **Contato**
 

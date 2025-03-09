@@ -53,27 +53,18 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
 
 <div align="center">
   <a href="#">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MauricioGoulartt&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MauricioGoulartt&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MauricioGoulartt&theme=react-dark&hide_border=true&bg_color=000000&color=00FF00&line=00FF00&title_color=00FF00" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MauricioGoulartt&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00"/>
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MauricioGoulartt&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MauricioGoulartt&theme=react-dark&hide_border=true&bg_color=000000&color=00FF00&line=00FF00&title_color=00FF00"/>
   </a>
 </div>
 
 <br />
 
-<div align="center" style="width: 100%;">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" width="50%">
-        <h2>📈 Desenvolvimento Semanal</h2>
-        <img width="90%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/028c548e-4590-4c81-97be-63819ce7170e.svg?theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="WakaTime Activity" />
-      </td>
-      <td align="center" width="50%">
-        <h2>📈 Linguagens</h2>
-        <img width="90%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/311fa62f-e34e-4d71-a7c5-ac4a6343e3c8.svg?theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="WakaTime Linguagens" />
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <a href="#">
+        <img width="49.5%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/028c548e-4590-4c81-97be-63819ce7170e.svg?theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="WakaTime Activity" />
+        <img width="49.5%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/311fa62f-e34e-4d71-a7c5-ac4a6343e3c8.svg?theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="WakaTime Linguagens" />
 </div>
 
 <br />

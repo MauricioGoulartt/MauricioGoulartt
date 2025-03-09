@@ -61,23 +61,18 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
 
 <br />
 
-<div align="center">
-  <a href="#">
-
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" width="49%">
-        <h2>📈 Desenvolvimento Semanal</h2>
-        <img width="100%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/028c548e-4590-4c81-97be-63819ce7170e.svg" alt="WakaTime Activity" />
-      </td>
-      <td align="center" width="49%">
-        <h2>📈 Linguagens</h2>
-        <img width="100%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/311fa62f-e34e-4d71-a7c5-ac4a6343e3c8.svg" alt="WakaTime Linguagens" />
-      </td>
-    </tr>
-  </table>
-  </a>
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="49%">
+      <h2>📈 Desenvolvimento Semanal</h2>
+      <img width="100%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/028c548e-4590-4c81-97be-63819ce7170e.svg" alt="WakaTime Activity" />
+    </td>
+    <td align="center" width="49%">
+      <h2>📈 Linguagens</h2>
+      <img width="100%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/311fa62f-e34e-4d71-a7c5-ac4a6343e3c8.svg" alt="WakaTime Linguagens" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -87,7 +82,9 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
         <img width="100%" src="https://skillicons.dev/icons?i=nodejs,nestjs,typescript,javascript,react,tailwind,azure,aws,docker,linux,graphql,postgres,mysql,mongo,expressjs,cs,dotnet,rabbitmq,postman&theme=dark" alt="Tech Stack" />
   </a>
 </div>
+
 ## 📩 **Contato**
+
 <div>
   <a href="mailto:mauriciogoulart.1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mauriciogoulart/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" target="_blank"></a>

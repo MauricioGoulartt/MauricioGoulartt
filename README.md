@@ -61,18 +61,19 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
 
 <br />
 
-<div style="width: 100%; display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-
-  <div style="width: 50%; text-align: center;">
-    <h2>📈 Desenvolvimento Semanal</h2>
-    <img style="width: 100%;" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/028c548e-4590-4c81-97be-63819ce7170e.svg" alt="WakaTime Activity" />
-  </div>
-
-  <div style="width: 50%; text-align: center;">
-    <h2>📈 Linguagens</h2>
-    <img style="width: 100%;" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/311fa62f-e34e-4d71-a7c5-ac4a6343e3c8.svg" alt="WakaTime Linguagens" />
-  </div>
-
+<div align="center" style="width: 100%;">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" width="50%">
+        <h2>📈 Desenvolvimento Semanal</h2>
+        <img width="90%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/028c548e-4590-4c81-97be-63819ce7170e.svg" alt="WakaTime Activity" />
+      </td>
+      <td align="center" width="50%">
+        <h2>📈 Linguagens</h2>
+        <img width="90%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/311fa62f-e34e-4d71-a7c5-ac4a6343e3c8.svg" alt="WakaTime Linguagens" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />

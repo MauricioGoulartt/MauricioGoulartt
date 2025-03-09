@@ -41,7 +41,7 @@
 
 ## 📈 Análise de Desenvolvimento Semanal
 
-[![Mauricio Goulart WakaTime Activity](https://github.com/MauricioGoulartt/MauricioGoulartt/blob/main/images/stat.svg)](#)
+[![Mauricio Goulart WakaTime Activity](https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/028c548e-4590-4c81-97be-63819ce7170e.svg)](#)
 
 ## 📊 **WakaTime Stats**
 

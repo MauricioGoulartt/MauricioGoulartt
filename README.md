@@ -23,8 +23,6 @@
 ✔ Otimização de performance e escalabilidade  
 ✔ Bancos de dados: **MySQL, MongoDB, PostgreSQL**
 
-<br />
-
 ## 📚 **Educação e Certificações**
 
 🎓 **Análise e Desenvolvimento de Sistemas**  
@@ -56,8 +54,6 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
     </a>
 </div>
 
-<br />
-
 ## 📊 **GitHub Stats**
 
 <div align="center">
@@ -67,8 +63,6 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MauricioGoulartt&theme=react-dark&hide_border=true&bg_color=000000&color=00FF00&line=00FF00&title_color=00FF00"/>
   </a>
 </div>
-
-<br />
 
 ## 🟢 **Tecnologias**
 

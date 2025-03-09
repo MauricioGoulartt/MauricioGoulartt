@@ -7,7 +7,7 @@
     }
     .matrix-letter {
       fill: #00FF00;
-      font-family: 'IBM Plex Mono', monospace;
+      font-family: 'IBM Plex Mono', 'Source Code Pro', 'Courier New', monospace;
       font-size: 24px;
       animation: matrixFall 2s infinite ease-in-out;
     }

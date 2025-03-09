@@ -53,7 +53,7 @@
     }
   </style>
 
-  <rect width="100%" height="200" opacity="1" />
+  <rect width="100%" height="200" opacity="0" />
 
   <text x="50%" y="50%" text-anchor="middle">
     <tspan class="matrix-letter char0">B</tspan>

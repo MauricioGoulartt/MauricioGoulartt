@@ -1,7 +1,5 @@
 <img src="./assets/svg/header.svg">
 
-##
-
 <img align="right" alt="Visitas" src="https://komarev.com/ghpvc/?username=MauricioGoulartt&label=Profile%20views&color=green&style=flat">
 <img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/MauricioGoulartt?style=flat&color=green&logo=github" />
 <img title="Github Monthly commits" alt="Github Monthly" align="left" src="https://badges.strrl.dev/commits/monthly/MauricioGoulartt?style=flat&color=green" />
@@ -22,8 +20,6 @@
 ✔ Integração de sistemas e automação de processos  
 ✔ Otimização de performance e escalabilidade  
 ✔ Bancos de dados: **MySQL, MongoDB, PostgreSQL**
-
-<br />
 
 ## 📚 **Educação e Certificações**
 
@@ -56,8 +52,6 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
     </a>
 </div>
 
-<br />
-
 ## 📊 **GitHub Stats**
 
 <div align="center">
@@ -67,8 +61,6 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MauricioGoulartt&theme=react-dark&hide_border=true&bg_color=000000&color=00FF00&line=00FF00&title_color=00FF00"/>
   </a>
 </div>
-
-<br />
 
 ## 🟢 **Tecnologias**
 

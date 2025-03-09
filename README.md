@@ -70,7 +70,7 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
 
 <br />
 
-<div align="center">
+<div align="start">
   <a href="#">
         <h2>🟢 Tecnologias</h2>
         <img width="100%" src="https://skillicons.dev/icons?i=nodejs,nestjs,typescript,javascript,react,tailwind,azure,aws,docker,linux,graphql,postgres,mysql,mongo,expressjs,cs,dotnet,rabbitmq,postman&theme=dark" alt="Tech Stack" />

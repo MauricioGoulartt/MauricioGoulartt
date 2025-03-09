@@ -31,18 +31,6 @@
 🖥️ **Pós-graduação em Arquitetura de Software - FIAP**  
 📜 **Certificações relevantes (listadas no LinkedIn)**
 
-<br />
-
-## 🟢 **Tecnologias**
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,typescript,javascript,react,tailwind,azure,aws,docker,linux,graphql,postgres,mysql,mongo,expressjs,cs,dotnet,rabbitmq,postman&theme=dark)](#)
-
-<br />
-
-## 📈 Análise de Desenvolvimento Semanal
-
-[![Mauricio Goulart WakaTime Activity](https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/028c548e-4590-4c81-97be-63819ce7170e.svg)](#)
-
 ## 📊 **WakaTime Stats**
 
 <!--START_SECTION:waka-->
@@ -70,6 +58,24 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MauricioGoulartt&theme=react-dark&hide_border=true&bg_color=000000&color=00FF00&line=00FF00&title_color=00FF00" />
   </a>
 </div>
+
+<br />
+
+## 📈 Análise de Desenvolvimento Semanal
+
+[![Mauricio Goulart WakaTime Activity](https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/028c548e-4590-4c81-97be-63819ce7170e.svg)](#)
+
+<br />
+
+## 📈 **Linguagens**
+
+[![Mauricio Goulart WakaTime Linguagens](https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/311fa62f-e34e-4d71-a7c5-ac4a6343e3c8.svg)](#)
+
+<br />
+
+## 🟢 **Tecnologias**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,typescript,javascript,react,tailwind,azure,aws,docker,linux,graphql,postgres,mysql,mongo,expressjs,cs,dotnet,rabbitmq,postman&theme=dark)](#)
 
 <br />
 

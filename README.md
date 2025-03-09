@@ -1,7 +1,5 @@
 <img src="./assets/svg/header.svg">
 
-##
-
 <img align="right" alt="Visitas" src="https://komarev.com/ghpvc/?username=MauricioGoulartt&label=Profile%20views&color=green&style=flat">
 <img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/MauricioGoulartt?style=flat&color=green&logo=github" />
 <img title="Github Monthly commits" alt="Github Monthly" align="left" src="https://badges.strrl.dev/commits/monthly/MauricioGoulartt?style=flat&color=green" />

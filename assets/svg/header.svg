@@ -8,7 +8,7 @@
     .matrix-letter {
       fill: #00FF00;
       font-family: 'Courier New', monospace;
-      font-size: 20px;
+      font-size: 24px;
       animation: matrixFall 2s infinite ease-in-out;
     }
 

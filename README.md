@@ -65,6 +65,7 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
   <a href="#">
         <img width="49.5%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/028c548e-4590-4c81-97be-63819ce7170e.svg?theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="WakaTime Activity" />
         <img width="49.5%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/311fa62f-e34e-4d71-a7c5-ac4a6343e3c8.svg?theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="WakaTime Linguagens" />
+    </a>
 </div>
 
 <br />

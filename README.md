@@ -36,15 +36,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 06 March 2025
+From: 13 April 2023 - To: 08 March 2025
 
-Total Time: 122 hrs 27 mins
+Total Time: 137 hrs 14 mins
 
-JavaScript    63 hrs 15 mins  ████████████▓░░░░░░░░░░░░   51.14 %
-TypeScript    45 hrs 14 mins  █████████░░░░░░░░░░░░░░░░   36.58 %
-JSON          5 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-Markdown      2 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+JavaScript    77 hrs 6 mins   ██████████████░░░░░░░░░░░   55.67 %
+TypeScript    45 hrs 15 mins  ████████▒░░░░░░░░░░░░░░░░   32.67 %
+JSON          5 hrs 42 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+Markdown      2 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->

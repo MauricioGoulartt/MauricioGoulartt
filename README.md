@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MauricioGoulartt/MauricioGoulartt/refs/heads/main/assets/svg/header.svg">
+<img src="./assets/svg/header.svg">
 
 ##
 

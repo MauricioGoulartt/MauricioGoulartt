@@ -9,6 +9,7 @@
       fill: #00FF00;
       font-family: 'IBM Plex Mono', 'Source Code Pro', 'Courier New', monospace;
       font-size: 24px;
+      font-weight: bold;
       animation: matrixFall 2s infinite ease-in-out;
     }
 

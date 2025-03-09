@@ -61,21 +61,27 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
 
 <br />
 
-## 📈 Análise de Desenvolvimento Semanal
+<div align="center">
+  <a href="#">
 
-[![Mauricio Goulart WakaTime Activity](https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/028c548e-4590-4c81-97be-63819ce7170e.svg)](#)
+  <h2>📈 Análise de Desenvolvimento Semanal</h2>
 
-<br />
+  <img src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/028c548e-4590-4c81-97be-63819ce7170e.svg" alt="WakaTime Activity" />
 
-## 📈 **Linguagens**
+<br /><br />
 
-[![Mauricio Goulart WakaTime Linguagens](https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/311fa62f-e34e-4d71-a7c5-ac4a6343e3c8.svg)](#)
+  <h2>📈 Linguagens</h2>
 
-<br />
+  <img src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/311fa62f-e34e-4d71-a7c5-ac4a6343e3c8.svg" alt="WakaTime Linguagens" />
 
-## 🟢 **Tecnologias**
+<br /><br />
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,typescript,javascript,react,tailwind,azure,aws,docker,linux,graphql,postgres,mysql,mongo,expressjs,cs,dotnet,rabbitmq,postman&theme=dark)](#)
+  <h2>🟢 Tecnologias</h2>
+
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,typescript,javascript,react,tailwind,azure,aws,docker,linux,graphql,postgres,mysql,mongo,expressjs,cs,dotnet,rabbitmq,postman&theme=dark" alt="Tech Stack" />
+
+  </a>
+</div>
 
 <br />
 

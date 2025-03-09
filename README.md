@@ -64,21 +64,28 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
 <div align="center">
   <a href="#">
 
-  <table>
+<div align="center">
+  <a href="#">
+
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td align="center">
+      <td align="center" width="33%">
         <h2>📈 Desenvolvimento Semanal</h2>
-        <img width="250" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/028c548e-4590-4c81-97be-63819ce7170e.svg" alt="WakaTime Activity" />
+        <img width="100%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/028c548e-4590-4c81-97be-63819ce7170e.svg" alt="WakaTime Activity" />
       </td>
-      <td align="center">
+      <td align="center" width="33%">
         <h2>📈 Linguagens</h2>
-        <img width="250" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/311fa62f-e34e-4d71-a7c5-ac4a6343e3c8.svg" alt="WakaTime Linguagens" />
+        <img width="100%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/311fa62f-e34e-4d71-a7c5-ac4a6343e3c8.svg" alt="WakaTime Linguagens" />
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,typescript,javascript,react,tailwind,azure,aws,docker,linux,graphql,postgres,mysql,mongo,expressjs,cs,dotnet,rabbitmq,postman&theme=dark" alt="Tech Stack" />
+      <td align="center" width="33%">
+        <h2>🟢 Tecnologias</h2>
+        <img width="100%" src="https://skillicons.dev/icons?i=nodejs,nestjs,typescript,javascript,react,tailwind,azure,aws,docker,linux,graphql,postgres,mysql,mongo,expressjs,cs,dotnet,rabbitmq,postman&theme=dark" alt="Tech Stack" />
       </td>
     </tr>
   </table>
+
+  </a>
+</div>
 
   </a>
 </div>

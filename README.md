@@ -27,6 +27,23 @@
 🖥️ **Pós-graduação em Arquitetura de Software - FIAP**  
 📜 **Certificações relevantes (listadas no LinkedIn)**
 
+
+<div align="center">
+
+[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=MauricioGoulartt&theme=radical&row=1&margin-w=30&no-frame=true&no-bg=true)](#)
+
+</div>
+
+<div align="center">
+<img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=MauricioGoulartt&theme=merko&hide_border=true" />
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=MauricioGoulartt&theme=merko&show_icons=true&hide_border=true&count_private=true" />
+</div>
+
+<div align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioGoulartt&theme=merko&show_icons=true&hide_border=true&layout=compact" />
+</div>
+
+
 ## 📊 **WakaTime Stats**
 
 <!--START_SECTION:waka-->
@@ -40,30 +57,6 @@ Markdown      32 mins         ▓░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<div align="start">
-  <a href="#">
-        <img width="49.5%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/028c548e-4590-4c81-97be-63819ce7170e.svg?theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="WakaTime Activity" />
-        <img width="49.5%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/67c3e277-eeda-4af1-88e3-de3d7a74b4b7.svg?theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="WakaTime Linguagens" />
-        <img width="49.5%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/525d9575-562a-4554-ae99-52d2d70d1e05.svg" alt="Operating Systems" />
-        <img width="49.5%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/bbac926d-f8d1-44fa-978f-7b1106b5a6fe.svg" alt="Categories" />
-    </a>
-</div>
-
-## 📊 **GitHub Stats**
-
-<div align="start">
-  <a href="#">
-      <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=MauricioGoulartt&theme=merko&hide_border=true" />
-  </a>
-  <a href="#">
-      <img height="155em" src="https://github-readme-stats.vercel.app/api?username=MauricioGoulartt&theme=merko&show_icons=true&hide_border=true&count_private=true" />
-  </a>
-   <a href="#">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioGoulartt&theme=merko&show_icons=true&hide_border=true&layout=compact" />
-  </a>
-</div>
-
 
 [![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)](#)
 

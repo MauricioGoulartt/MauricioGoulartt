@@ -27,10 +27,6 @@
 🖥️ **Pós-graduação em Arquitetura de Software - FIAP**  
 📜 **Certificações relevantes (listadas no LinkedIn)**
 
-![MauricioGoulartt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioGoulartt&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![MauricioGoulartt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MauricioGoulartt&theme=dark&hide_border=true)
-![MauricioGoulartt's Stats](https://github-readme-stats.vercel.app/api?username=MauricioGoulartt&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 📊 **WakaTime Stats**
 
 <!--START_SECTION:waka-->
@@ -49,7 +45,7 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<div align="center">
+<div align="start">
   <a href="#">
         <img width="49.5%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/028c548e-4590-4c81-97be-63819ce7170e.svg?theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="WakaTime Activity" />
         <img width="49.5%" src="https://wakatime.com/share/@c692ec5a-960c-464a-801e-8bcf7a77eb55/67c3e277-eeda-4af1-88e3-de3d7a74b4b7.svg?theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="WakaTime Linguagens" />
@@ -60,18 +56,22 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
 
 ## 📊 **GitHub Stats**
 
-<div align="center">
+<div align="start">
   <a href="#">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MauricioGoulartt&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00"/>
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MauricioGoulartt&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MauricioGoulartt&theme=react-dark&hide_border=true&bg_color=000000&color=00FF00&line=00FF00&title_color=00FF00"/>
+      <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=MauricioGoulartt&theme=merko&hide_border=true" />
+  </a>
+  <a href="#">
+      <img height="155em" src="https://github-readme-stats.vercel.app/api?username=MauricioGoulartt&theme=merko&show_icons=true&hide_border=true&count_private=true" />
+  </a>
+   <a href="#">
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioGoulartt&theme=merko&show_icons=true&hide_border=true&layout=compact" />
   </a>
 </div>
 
 ## 🟢 **Tecnologias**
 
 <div>
-  <img width="100%" src="https://skillicons.dev/icons?i=nodejs,nestjs,typescript,javascript,react,tailwind,azure,aws,docker,linux,graphql,postgres,mysql,mongo,expressjs,cs,dotnet,rabbitmq,postman&theme=dark" alt="Tech Stack" />
+  <img height="100em" src="https://skillicons.dev/icons?i=nodejs,aws,docker,nestjs,linux,typescript,javascript,postman,react,tailwind,azure,graphql,postgres,mysql,mongo,expressjs,cs,dotnet,rabbitmq&theme=dark" alt="Tech Stack" />
 </div>
 
 ## 📩 **Contato**
@@ -80,8 +80,6 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
   <a href="mailto:mauriciogoulart.1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mauriciogoulart/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" target="_blank"></a>
 </div>
-
----
 
 <p align="center">
   <img href="#" src="./assets/svg/footer.svg" />

@@ -32,15 +32,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 10 March 2025
-
-Total Time: 139 hrs 26 mins
-
-JavaScript    77 hrs 19 mins  █████████████▓░░░░░░░░░░░   54.95 %
-TypeScript    45 hrs 15 mins  ████████░░░░░░░░░░░░░░░░░   32.16 %
-JSON          5 hrs 44 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Markdown      2 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+JavaScript    17 hrs 14 mins  ██████████████████▓░░░░░░   74.38 %
+TypeScript    2 hrs 44 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+Image (svg)   54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+JSON          50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Markdown      32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->

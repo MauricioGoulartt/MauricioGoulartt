@@ -6,8 +6,6 @@
 <img title="Github Contributions" alt="Github Contributions" align="right" src="https://badges.strrl.dev/contributions/all/MauricioGoulartt?color=green" />
 <img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/MauricioGoulartt?style=flat&color=green" />
 
-[![wakatime](https://wakatime.com/badge/user/c692ec5a-960c-464a-801e-8bcf7a77eb55/project/3eed53b6-8935-48a5-9b38-667f3b0be9a4.svg)](https://wakatime.com/badge/user/c692ec5a-960c-464a-801e-8bcf7a77eb55/project/3eed53b6-8935-48a5-9b38-667f3b0be9a4)
-
 <br />
 <br />
 

@@ -27,6 +27,10 @@
 🖥️ **Pós-graduação em Arquitetura de Software - FIAP**  
 📜 **Certificações relevantes (listadas no LinkedIn)**
 
+![MauricioGoulartt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioGoulartt&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![MauricioGoulartt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MauricioGoulartt&theme=dark&hide_border=true)
+![MauricioGoulartt's Stats](https://github-readme-stats.vercel.app/api?username=MauricioGoulartt&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
 ## 📊 **WakaTime Stats**
 
 <!--START_SECTION:waka-->

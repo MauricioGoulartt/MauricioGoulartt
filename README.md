@@ -79,10 +79,6 @@ C#            1 hr 49 mins    ▒░░░░░░░░░░░░░░░�
 
 ---
 
-<a href="#">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%22A3FF33&size=24&center=true&vCenter=true&lines=Volte+sempre!" />
-</a>
-
 <p align="center">
   <img href="#" src="./assets/svg/footer.svg" />
 </p>

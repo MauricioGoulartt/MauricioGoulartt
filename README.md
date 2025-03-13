@@ -28,6 +28,12 @@
 📜 **Certificações relevantes (listadas no LinkedIn)**
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <div align="center">
 
 [![Profile Trophy](https://github-profile-trophy.vercel.app/?username=MauricioGoulartt&theme=radical&row=1&margin-w=30&no-frame=true&no-bg=true)](#)

@@ -1,31 +1,22 @@
-name: Atualizar WakaTime Stats
+name: WakaTime Readme
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '1 0 * * *'
   workflow_dispatch:
-
 jobs:
-  update-wakatime:
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v4
-
-      - name: Atualizar WakaTime Stats no README
-        uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ github.token }}
           SHOW_LINES_OF_CODE: "True"
-          MAX_LANGUAGES: '5'
-          WAKATIME_TIME_RANGE: 'all_time'
+          SHOW_PROJECTS: "False"
+          SHOW_LANGUAGE: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_LOC_CHART: "False"
           LOCALE: "pt-BR"
-
-      - name: Commit e Push das Mudanças
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Atualizando WakaTime Stats [Automático]" || exit 0
-          git push

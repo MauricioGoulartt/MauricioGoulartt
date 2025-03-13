@@ -28,11 +28,13 @@
 📜 **Certificações relevantes (listadas no LinkedIn)**
 
 <div align="center">
-    [![Profile Trophy](https://github-profile-trophy.vercel.app/?username=MauricioGoulartt&theme=radical&row=1&margin-w=30&no-frame=true&no-bg=true)](#)
+    
+[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=MauricioGoulartt&theme=radical&row=1&margin-w=30&no-frame=true&no-bg=true)](#)
+
 </div>
 
 <a href="#">
-  <img src="https://github.com/MauricioGoulartt/MauricioGoulartt/blob/output/dracula.svg" width="100%">
+  <img src="https://github.com/MauricioGoulartt/MauricioGoulartt/blob/output/github-snake-dark.svg" width="100%">
 </a>
 
 <div align="center">

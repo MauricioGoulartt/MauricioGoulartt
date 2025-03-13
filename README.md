@@ -28,11 +28,9 @@
 📜 **Certificações relevantes (listadas no LinkedIn)**
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<a href="#">
+  <img src="https://github.com/MauricioGoulartt/MauricioGoulartt/blob/output/dracula.svg" width="100%">
+</a>
 
 <div align="center">
 

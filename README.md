@@ -27,16 +27,13 @@
 🖥️ **Pós-graduação em Arquitetura de Software - FIAP**  
 📜 **Certificações relevantes (listadas no LinkedIn)**
 
+<div align="center">
+    [![Profile Trophy](https://github-profile-trophy.vercel.app/?username=MauricioGoulartt&theme=radical&row=1&margin-w=30&no-frame=true&no-bg=true)](#)
+</div>
 
 <a href="#">
   <img src="https://github.com/MauricioGoulartt/MauricioGoulartt/blob/output/dracula.svg" width="100%">
 </a>
-
-<div align="center">
-
-[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=MauricioGoulartt&theme=radical&row=1&margin-w=30&no-frame=true&no-bg=true)](#)
-
-</div>
 
 <div align="center">
 <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=MauricioGoulartt&theme=merko&hide_border=true" />

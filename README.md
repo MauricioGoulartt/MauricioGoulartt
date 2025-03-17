@@ -9,6 +9,13 @@
 <br />
 <br />
 
+## 📩 **Contato**
+
+<div>
+  <a href="mailto:mauriciogoulart.1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mauriciogoulart/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" target="_blank"></a>
+</div>
+
 ## 🏆 **Sobre mim**
 
 🟢 Estudando e aplicando **desenvolvimento, engenharia e arquitetura de software**, com experiência em **integração de sistemas e automação de processos**.  
@@ -143,12 +150,7 @@ CSS                      1 repo              █░░░░░░░░░░�
   <img height="100em" src="https://skillicons.dev/icons?i=nodejs,aws,docker,nestjs,linux,typescript,javascript,postman,react,tailwind,azure,graphql,postgres,mysql,mongo,expressjs,cs,dotnet,rabbitmq&theme=dark" alt="Tech Stack" />
 </div>
 
-## 📩 **Contato**
 
-<div>
-  <a href="mailto:mauriciogoulart.1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mauriciogoulart/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" target="_blank"></a>
-</div>
 
 <p align="center">
   <img href="#" src="./assets/svg/footer.svg" />

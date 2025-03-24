@@ -61,13 +61,15 @@
 ## 📊 **WakaTime Stats**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 26.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 150 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -143,7 +145,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MauricioGoulartt/MauricioGoulartt/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2025 18:41:43 UTC
+ Last Updated on 24/03/2025 18:45:35 UTC
 <!--END_SECTION:waka-->
 
 [![3D Profile](./profile-3d-contrib/profile-night-green.svg)](#)

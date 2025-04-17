@@ -48,16 +48,6 @@
   <img src="https://github.com/MauricioGoulartt/MauricioGoulartt/blob/output/github-snake-dark.svg" width="100%">
 </a>
 
-<div align="center">
-<img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=MauricioGoulartt&theme=merko&hide_border=true" />
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=MauricioGoulartt&theme=merko&show_icons=true&hide_border=true&count_private=true" />
-</div>
-
-<div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioGoulartt&theme=merko&show_icons=true&hide_border=true&layout=compact" />
-</div>
-
-
 ## 📊 **WakaTime Stats**
 
 <!--START_SECTION:waka-->

@@ -34,8 +34,7 @@
 
 ## 📚 **Educação e Certificações**
 
-🎓 **Análise e Desenvolvimento de Sistemas**  
-🖥️ **Pós-graduação em Arquitetura de Software - FIAP**  
+🎓 **Análise e Desenvolvimento de Sistemas**    
 📜 **Certificações relevantes (listadas no LinkedIn)**
 
 <div align="center">

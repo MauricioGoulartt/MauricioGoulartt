@@ -23,7 +23,7 @@
 ## 🏆 **Sobre mim**
 
 🟢 Estudando e aplicando **desenvolvimento, engenharia e arquitetura de software**, com experiência em **integração de sistemas e automação de processos**.  
-💻 Atuo como **Desenvolvedor Backend**, com foco em **APIs, segurança e escalabilidade de aplicações**.
+💻 Atuo como **Desenvolvedor Backend**, com foco em **Banco de Dados, APIs, segurança e escalabilidade de aplicações**.
 
 📌 **Principais áreas de atuação:**  
 ✔ Desenvolvimento Backend (**Node.js, NestJS, Strapi, APIs REST/GraphQL**)  

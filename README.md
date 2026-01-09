@@ -20,9 +20,9 @@
 
 </div>
 
-## 🏆 **Sobre mim**
+## 🏆 **Sobre mim**a
 
-🟢 Estudando e aplicando **desenvolvimento, engenharia e arquitetura de software**, com experiência em **integração de sistemas e automação de processos**.  
+🟢 **desenvolvimento, engenharia e arquitetura de software**, com experiência em **integração de sistemas e automação de processos**.  
 💻 Atuo como **Desenvolvedor Backend**, com foco em **Banco de Dados, APIs, segurança e escalabilidade de aplicações**.
 
 📌 **Principais áreas de atuação:**  

@@ -1,60 +1,78 @@
 <img src="./assets/svg/header.svg">
 
-<img align="right" alt="Visitas" src="https://komarev.com/ghpvc/?username=MauricioGoulartt&label=Profile%20views&color=green&style=flat">
-<img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/MauricioGoulartt?style=flat&color=green&logo=github" />
-<img title="Github Monthly commits" alt="Github Monthly" align="left" src="https://badges.strrl.dev/commits/monthly/MauricioGoulartt?style=flat&color=green" />
-<img title="Github Contributions" alt="Github Contributions" align="right" src="https://badges.strrl.dev/contributions/all/MauricioGoulartt?color=green" />
-<img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/MauricioGoulartt?style=flat&color=green" />
+<p align="right">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=MauricioGoulartt&label=views&color=0E7AFE&style=flat">
+</p>
 
-<br />
-<br />
+## 👋 Olá, eu sou o Maurício Goulart
 
-## 📩 **Contato**
+Engenheiro de Software focado em **backend, arquitetura e integração de sistemas**.  
+Trabalho com **APIs escaláveis**, automação de processos e **infraestrutura cloud**, sempre priorizando **segurança, performance e manutenibilidade**.
 
-<div>
-  <a href="mailto:mauriciogoulart.1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FFFF" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mauriciogoulart/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=0A66C2" target="_blank"></a>
-  <a href="https://wa.me/+5511995997878" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF00">
-</a>
+---
 
-</div>
+## 🧠 O que eu faço
 
-## 🏆 **Sobre mim**a
+- Desenvolvimento **Backend** com foco em APIs robustas
+- Arquitetura de software e desenho de sistemas escaláveis
+- Integração entre múltiplos serviços e plataformas
+- Automação de fluxos e processos
+- Modelagem, otimização e segurança de bancos de dados
 
-🟢 **desenvolvimento, engenharia e arquitetura de software**, com experiência em **integração de sistemas e automação de processos**.  
-💻 Atuo como **Desenvolvedor Backend**, com foco em **Banco de Dados, APIs, segurança e escalabilidade de aplicações**.
+---
 
-📌 **Principais áreas de atuação:**  
-✔ Desenvolvimento Backend (**Node.js, NestJS, Strapi, APIs REST/GraphQL**)  
-✔ Arquitetura e segurança de software  
-✔ Integração de sistemas e automação de processos  
-✔ Otimização de performance e escalabilidade  
-✔ Bancos de dados: **MySQL, MongoDB, PostgreSQL**
+## 🛠️ Stack principal
 
-## 📚 **Educação e Certificações**
+**Backend & APIs**
+- Node.js · TypeScript · NestJS · Strapi
+- REST · GraphQL
 
-🎓 **Análise e Desenvolvimento de Sistemas**    
-📜 **Certificações relevantes (listadas no LinkedIn)**
+**Banco de Dados**
+- MySQL · PostgreSQL · MongoDB
 
-<div align="center">
-    
-[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=MauricioGoulartt&theme=radical&row=1&margin-w=30&no-frame=true&no-bg=true)](#)
+**Infra & DevOps**
+- Docker · Linux
+- AWS · Azure
+- RabbitMQ
 
-</div>
+**Frontend (quando necessário)**
+- React · TailwindCSS
 
-<a href="#">
-  <img src="https://github.com/MauricioGoulartt/MauricioGoulartt/blob/output/github-snake-dark.svg" width="100%">
-</a>
+---
 
-## 🟢 **Tecnologias**
+## 📌 Atuação atual
 
-<div>
-  <img height="100em" src="https://skillicons.dev/icons?i=nodejs,aws,docker,nestjs,linux,typescript,javascript,postman,react,tailwind,azure,graphql,postgres,mysql,mongo,expressjs,cs,dotnet,rabbitmq&theme=dark" alt="Tech Stack" />
-</div>
+- Desenvolvimento de **plataformas SaaS**
+- APIs multi-tenant
+- Integrações com sistemas externos
+- Projetos com foco em **automação, IA e escalabilidade**
 
+---
 
+## 📫 Contato
+
+<p>
+  <a href="mailto:mauriciogoulart.1990@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/mauriciogoulart/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin">
+  </a>
+  <a href="https://wa.me/5511995997878">
+    <img src="https://img.shields.io/badge/WhatsApp-000000?style=flat&logo=whatsapp">
+  </a>
+</p>
+
+---
 
 <p align="center">
-  <img href="#" src="./assets/svg/footer.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MauricioGoulartt&theme=onedark&row=1&no-frame=true&no-bg=true" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/MauricioGoulartt/MauricioGoulartt/blob/output/github-snake-dark.svg" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/svg/footer.svg" />
 </p>

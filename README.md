@@ -1,9 +1,5 @@
 <img src="./assets/svg/header.svg">
 
-## 👋 Olá, eu sou o Maurício Goulart
-
-Engenheiro de Software
-
 ---
 
 <p align="center">
